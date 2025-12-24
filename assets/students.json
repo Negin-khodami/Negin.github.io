@@ -70,5 +70,12 @@
     "writing": 6.5,
     "speaking": 7.0,
     "image": "assets/students/student8.jpg"
-  }
+  },
+"name": "Student 9",
+    "overall": 7.5,
+    "listening": 8.5,
+    "reading": 7.5,
+    "writing": 6.5,
+    "speaking": 8.0,
+    "image": "assets/students/student9.jpg"
 ]
